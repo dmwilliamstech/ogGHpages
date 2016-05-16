@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on David-Williams</title>
-    <link>http://dmwilliamstech.github.io/gh-pages/post/</link>
+    <link>http://dmwilliamstech.github.io/post/</link>
     <description>Recent content in Posts on David-Williams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2016; David Williams</copyright>
     <lastBuildDate>Mon, 09 May 2016 10:42:05 -0500</lastBuildDate>
-    <atom:link href="http://dmwilliamstech.github.io/gh-pages/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://dmwilliamstech.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First Post</title>
-      <link>http://dmwilliamstech.github.io/gh-pages/post/First-Post/</link>
+      <link>http://dmwilliamstech.github.io/post/First-Post/</link>
       <pubDate>Mon, 09 May 2016 10:42:05 -0500</pubDate>
       
-      <guid>http://dmwilliamstech.github.io/gh-pages/post/First-Post/</guid>
+      <guid>http://dmwilliamstech.github.io/post/First-Post/</guid>
       <description></description>
     </item>
     
