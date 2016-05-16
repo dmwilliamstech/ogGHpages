@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workouts on David-Williams</title>
+    <link>http://dmwilliamstech.github.io/gh-pages/workouts/</link>
+    <description>Recent content in Workouts on David-Williams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2016; David Williams</copyright>
+    <lastBuildDate>Mon, 09 May 2016 12:31:57 -0500</lastBuildDate>
+    <atom:link href="http://dmwilliamstech.github.io/gh-pages/workouts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1st</title>
+      <link>http://dmwilliamstech.github.io/gh-pages/workouts/1st/</link>
+      <pubDate>Mon, 09 May 2016 12:31:57 -0500</pubDate>
+      
+      <guid>http://dmwilliamstech.github.io/gh-pages/workouts/1st/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
